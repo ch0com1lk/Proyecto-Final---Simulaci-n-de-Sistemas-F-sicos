@@ -1,1 +1,1 @@
-# Proyecto-Final---Simulaci-n-de-Sistemas-F-sicos
+# Proyecto-Final---Simulacion-de-Sistemas-Fisicos
